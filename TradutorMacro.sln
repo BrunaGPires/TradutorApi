@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradutorMacro", "TradutorMacro\TradutorMacro.csproj", "{4F89A7F6-6B8C-41AE-AE6A-11F3D1FF97B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F89A7F6-6B8C-41AE-AE6A-11F3D1FF97B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F89A7F6-6B8C-41AE-AE6A-11F3D1FF97B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F89A7F6-6B8C-41AE-AE6A-11F3D1FF97B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F89A7F6-6B8C-41AE-AE6A-11F3D1FF97B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A268EBC-3127-4F93-82AA-237E8C926BC0}
+	EndGlobalSection
+EndGlobal
